@@ -1,7 +1,7 @@
 var favoriteCharacter = "Jon Snow"
 print(favoriteCharacter)
 
-favoriteCharacter = "Tyrion Lannister"
+favoriteCharacter = "John"
 print(favoriteCharacter)
 
 favoriteCharacter = 76
